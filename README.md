@@ -45,7 +45,7 @@ New Offers for specific users
 Providing facilities to citizens to have lockers at public places
 Check availability and updatethe  status of lockers
 
-**GreenTec**
+**GreenTree**
 Providing solutions for plant sales and purchases
 delivery to doorsteps
 Complete e-commerce based on plants selling only
