@@ -6,11 +6,11 @@ Software Engineer | React Native Engineer | AI-Enabled Product Builder | Scalabl
 - Tech: React Native - Experienced, React, Node, Laravel, AWS, MySQL, MongoDB  - Helping Hand 
 
 ### 🔧 Skills
-Frontend: React Native, React HTML, CSS, Bootstrap - Experienced 
-Backend: Node.js, Laravel, REST APIs - Helping Hand 
-AI: OpenAI API, Prompt Engineering, Automation  
-Cloud: AWS  
-Tools: Git, Jira, ClickUp
+Experienced Mobile Developer: React Native -
+Front End: React HTML, CSS, Bootstrap -
+Helping Hand Backend Developer: Node.js, Laravel, REST APIs -  
+AI: OpenAI API, Prompt Engineering, Automation - 
+Tools: Git, Jira, ClickUp -
 
 ### 🔭 Projects
 **Shipping Tech Solution**
