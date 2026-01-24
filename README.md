@@ -34,7 +34,7 @@ Suggestions to invest in a specific domain and company based on the user profile
 
 **Pindaal**
 E-commerce store for buying and selling different range of products
-payment gateways to pay smoothly from app
+payment gateways to pay smoothly from the app
 Whislists to add items for likings
 cart to complete the purchase
 
@@ -42,23 +42,24 @@ cart to complete the purchase
 Private lockers facility
 Qr scans
 New Offers for specific users
-Providing facilities to citizens to have lockers at public places
+Providing facilities to citizens to have lockers in public places
 Check availability and updatethe  status of lockers
 
 **GreenTree**
 Providing solutions for plant sales and purchases
 delivery to doorsteps
-Complete e-commerce based on plants selling only
-maintained categories for indoor/ outdoor and option to create custom categories as well
+Complete e-commerce based on plant sales only
+maintained categories for indoor/ outdoor, and an option to create custom categories as well
 
+**Connect with me**
 📫 LinkedIn: https://www.linkedin.com/in/ali-tamoor-3778b6116/
 
 ### 🚀 Highlights-
 - 🔭 I’m currently developing technology solutions aligned with real-world container, finance, and shipping workflows.
 - 🌱 I’m currently learning AI implementation using and exploring different ways of prompts.
 - 👯 I’m looking to collaborate on new challenges
-- 🤔 I’m looking for help with my skill set to polish further by being a part of amazing team.
-- 💬 Ask me about anything..
-- 📫 How to reach me: LinkedIn as per above provided link.
+- 🤔 I’m looking for help with my skill set to polish further by being a part of an amazing team.
+- 💬 Ask me about React, JavaScript, React Native
+- 📫 How to reach me: LinkedIn as per the above provided link.
 - 😄 Pronouns: He / Mr.
-- ⚡ Fun fact:  Hands-on with full software lifecycle: requirements, development, testing, deployment, and support. Hands-on with full software lifecycle: requirements, development, testing, deployment, and support. Used to be a good Sketch Artist and competed on District level.
+- ⚡ Fun fact:  Hands-on with full software lifecycle: requirements, development, testing, deployment, and support. Hands-on with full software lifecycle: requirements, development, testing, deployment, and support. Used to be a good Sketch Artist and competed on the district level.
